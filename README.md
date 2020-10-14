@@ -1,6 +1,6 @@
 ## Introduction
 
-> ***Note:*** _This can be a pair programming activity or done independently._
+**This is a deliverable assignment, make sure to fork and clone before starting!**
 
 #### Where In The World Is Carmen Sandiego?
 
@@ -10,7 +10,7 @@ We're going to use what we've learned already about searching with SQL commands,
 
 #### Requirements
 
-- Fork and clone
+- Fork and clone (this is a deliverable!)
 - cd into the folder
 - Use the clues.sql file as your "answer sheet"
 - From the command line, let's create a new database called `world`.  
